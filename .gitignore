@@ -1,3 +1,10 @@
+####### my additions
+plugins/cloned/*.*
+
+####### END my additions
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

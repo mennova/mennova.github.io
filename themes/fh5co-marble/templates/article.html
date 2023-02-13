@@ -28,6 +28,9 @@
         {% endif %}
 
         <div class="animate-box" data-animate-effect="fadeInLeft">
+		    {% if article.summary %}
+			<p class="fh5co-lead animate-box" data-animate-effect="fadeInLeft">{{ article.summary }}</p>
+			{% endif %}
             <p class="animate-box" data-animate-effect="fadeInLeft">{{ article.content }}</p>
         </div>
     </div>

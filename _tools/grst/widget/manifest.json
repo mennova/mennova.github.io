@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Action button",
+    "url": "https://mennova.github.io/_tools/grst/widget/actionbutton/index.html",
+    "widgetId": "@gristlabs/widget-actionbutton",
+    "published": true,
+    "accessLevel": "full"
+  },
+  {
+    "name": "Copy to clipboard",
+    "url": "https://mennova.github.io/_tools/grst/widget/clipboard/index.html",
+    "widgetId": "@gristlabs/widget-clipboard",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Dropbox Embedder",
+    "url": "https://mennova.github.io/_tools/grst/widget/dropbox-embed/index.html",
+    "widgetId": "@gristlabs/dropbox-embed",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Inspect Record",
+    "url": "https://mennova.github.io/_tools/grst/widget/inspect/onRecord.html",
+    "widgetId": "@gristlabs/widget-inspect#onRecord",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Inspect Table",
+    "url": "https://mennova.github.io/_tools/grst/widget/inspect/onRecords.html",
+    "widgetId": "@gristlabs/widget-inspect#onRecords",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Inspect Options",
+    "url": "https://mennova.github.io/_tools/grst/widget/inspect/onOptions.html",
+    "widgetId": "@gristlabs/widget-inspect#onOptions",
+    "published": true
+  },
+  {
+    "name": "Inspect API",
+    "url": "https://mennova.github.io/_tools/grst/widget/inspect/api.html",
+    "widgetId": "@gristlabs/widget-inspect#api",
+    "published": true
+  },
+  {
+    "name": "Invoices",
+    "url": "https://mennova.github.io/_tools/grst/widget/invoices",
+    "widgetId": "@gristlabs/widget-invoices",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Map",
+    "url": "https://mennova.github.io/_tools/grst/widget/map/index.html",
+    "widgetId": "@gristlabs/widget-map#map",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Markdown",
+    "url": "https://mennova.github.io/_tools/grst/widget/markdown",
+    "widgetId": "@gristlabs/widget-markdown",
+    "published": true,
+    "accessLevel": "full"
+  },
+  {
+    "name": "Notepad",
+    "url": "https://mennova.github.io/_tools/grst/widget/notepad",
+    "widgetId": "@gristlabs/widget-notepad",
+    "published": true,
+    "accessLevel": "full"
+  },
+  {
+    "name": "Pivot Table",
+    "url": "https://mennova.github.io/_tools/grst/widget/pivottable/index.html",
+    "widgetId": "@gristlabs/widget-pivottable",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Print labels",
+    "url": "https://mennova.github.io/_tools/grst/widget/printlabels/index.html",
+    "widgetId": "@gristlabs/widget-printlabels",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Purchase orders",
+    "url": "https://mennova.github.io/_tools/grst/widget/purchase-orders",
+    "widgetId": "@gristlabs/widget-purchase-orders",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "HTML viewer",
+    "url": "https://mennova.github.io/_tools/grst/widget/renderhtml/index.html",
+    "widgetId": "@gristlabs/widget-renderhtml",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Grist Video Player",
+    "url": "https://mennova.github.io/_tools/grst/widget/rendervideo/index.html",
+    "widgetId": "@gristlabs/widget-rendervideo",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Image viewer",
+    "url": "https://mennova.github.io/_tools/grst/widget/viewer/index.html",
+    "widgetId": "@gristlabs/widget-viewer",
+    "published": true,
+    "accessLevel": "read table"
+  },
+  {
+    "name": "Fiddle",
+    "url": "https://mennova.github.io/_tools/grst/widget/fiddle/index.html",
+    "widgetId": "@gristlabs/widget-fiddle",
+    "published": true,
+    "accessLevel": "full"
+  }
+]
